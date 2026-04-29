@@ -1,0 +1,23 @@
+main.py
+  2fddaf131a2887b6 1-31,33-215
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "cad1ec977e59e6d764badb99d279000d6b13a9a7",
+  "prompts": {
+    "2fddaf131a2887b6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2861dd3a-a976-47b5-be0b-59f6f7922c34",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "dailingx",
+      "messages": [],
+      "total_additions": 351,
+      "total_deletions": 136,
+      "accepted_lines": 214,
+      "overriden_lines": 1
+    }
+  }
+}
